@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Nadeem Ahmed</h1>
 <h3 align="center">A curious designer learning Programming</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nadeema43/)]([https://www.linkedin.com/in/jlim/](https://www.linkedin.com/in/nadeema43/))
-[![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/letsdesign99)](https://twitter.com/letsdesign99)
-[![Instagram Badge](https://img.shields.io/badge/-@__jessicaalim-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/nadeem4758)](https://instagram.com/nadeem4758)
-[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ladlamalik.haxor@gmail.com)](mailto:ladlamalik.haxor@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ladlamalik&label=Profile%20views&color=0e75b6&style=flat" alt="ladlamalik" /> </p>
 
