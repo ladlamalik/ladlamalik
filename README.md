@@ -1,3 +1,4 @@
+![logo](https://github.com/ladlamalik/ladlamalik/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Nadeem Ahmed</h1>
 <h3 align="center">A curious designer learning Programming</h3>
 
